@@ -38,9 +38,9 @@ export const config = {
   },
 
   urls: {
-    convocatoriaNacional: 'https://cooperacion.uncp.edu.pe/convocatorias-nacionales',
-    convocatoriaInternacional: 'https://cooperacion.uncp.edu.pe/convocatorias-internacionales',
-    guiaInscripcion: 'https://cooperacion.uncp.edu.pe/convocatorias-externos',
+    convocatoriaNacional: 'https://uncpedu-my.sharepoint.com/:b:/g/personal/e_2023100690a_uncp_edu_pe/IQB3oGr7mLLgTpPuRvkRNZNtAVXRGtwX4StpyGTp27q2O10?e=Dywgzm',
+    convocatoriaInternacional: 'https://uncpedu-my.sharepoint.com/:b:/g/personal/e_2023100690a_uncp_edu_pe/IQDVJyzPUtxSTpUgHSsxXSRNARVcQJZ-OHVHpHVbJ3RDoi4?e=GL0sgi',
+    guiaInscripcion: 'https://uncpedu-my.sharepoint.com/:b:/g/personal/e_2023100690a_uncp_edu_pe/IQBveDF0MxSSR6DtNH773qYRAWVLyoTIm3EXEy349BLYZcE?e=cPLzUv',
     paginaConvocatoria: 'https://cooperacion.uncp.edu.pe/convocatorias',
     paginaNacional: 'https://cooperacion.uncp.edu.pe/nacionales',
     paginaInternacional: 'https://cooperacion.uncp.edu.pe/internacionales',

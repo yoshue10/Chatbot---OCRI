@@ -45,14 +45,14 @@ export const handleSelectRole: Handler = (input: string, session: UserSession) =
       nextState: State.SHOW_MENU,
       messages: [
         '👨‍💼👩‍💼 *Personal Administrativo*\n\n' +
-        'Como parte del personal administrativo, puedes acceder a nuestras convocatorias de movilidad.\n\n' +
-        '📌 *Conoce nuestras convocatorias vigentes aquí:*\n' +
-        `🔗 ${config.urls.paginaConvocatoria}\n` +
-        `O en *nuestras redes sociales:*\n` +
-        `🔗 ${config.urls.enlaceFacebook}\n\n` +
-        '*¿Listo para Inscribirte?*\n\n' +
-        '🎉 ¡Genial! Sigue los pasos de la siguiente guía para registrar tu inscripción en nuestra página.\n\n' +
-        `🔗 ${config.urls.guiaInscripcion}`,
+        '¡Tu trabajo también impulsa el crecimiento y la proyección internacional de nuestra universidad! 🌟\n\n' +
+        'Como parte de la comunidad administrativa, puedes participar en programas de movilidad institucional y pasantías para fortalecer tus competencias profesionales.\n\n' +
+        '📌 *¿Cómo postular?*\n' +
+        'Por favor, sigue atentamente los pasos detallados en la imagen adjunta para completar tu registro e inscripción correctamente.\n\n' +
+        'O sigue los pasos de la siguiente guía: \n\n' +
+        `🔗 ${config.urls.guiaInscripcion}` +
+        '🤝 *¡Estamos para ayudarte!* Si tienes alguna duda sobre el proceso o los requisitos, quedamos a tu entera disposición.\n\n' +
+        '¡Mucho éxito en tu postulación! ✨',
 
         '👇 *¿Qué te gustaría hacer ahora?*\n\n' +
         '1️⃣ Hablar con un asesor\n' +
